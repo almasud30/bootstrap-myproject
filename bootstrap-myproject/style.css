@@ -1,0 +1,12 @@
+image{
+    height: 45%;
+    width: 450px;
+    border: 1px skyblue;
+    background-color: azure;
+    text-align: center;
+}
+
+carousel-inner{
+ color: #000;
+
+}
